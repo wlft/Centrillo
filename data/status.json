@@ -1,5 +1,5 @@
 {
-    "current_status" : "running",
+    "current_status" : "stopped",
     "banner" : {
         "is_active" : true,
         "text" : "NaN",
