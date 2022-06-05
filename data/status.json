@@ -2,8 +2,8 @@
     "current_status" : "running",
     "banner" : {
         "is_active" : true,
-        "text" : "NaN",
-        "Level" : 1
+        "text" : "Service down: products",
+        "Level" : 3
     },
     "complications" : {
 
