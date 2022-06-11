@@ -3,7 +3,7 @@
     "banner" : {
         "is_active" : true,
         "text" : "Service down: products",
-        "Level" : 3
+        "level" : 3
     },
     "complications" : {
 
