@@ -1,9 +1,9 @@
 {
-    "current_status" : "running",
+    "current_status" : "stopped",
     "banner" : {
         "is_active" : true,
-        "text" : "Centrillo is still new and in BETA. This is nowhere near the final product.",
-        "level" : 1
+        "text" : "Centrillo has shutdown as of December 31, 2022.",
+        "level" : 3
     },
     "complications" : {
 
